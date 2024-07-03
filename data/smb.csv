@@ -1,0 +1,175 @@
+Symbol,Name,Price,Change,Market_Cap,PE_Ratio,RK
+MSFT,Microsoft Corporation,446.95,-5.9,3.322T,38.76,1
+AAPL,Apple Inc.,210.62,-3.48,3.23T,32.81,2
+NVDA,NVIDIA Corporation,123.54,-0.45,3.039T,72.67,3
+GOOG,Alphabet Inc.,183.42,-3.44,2.258T,28.09,4
+META,"Meta Platforms, Inc.",504.22,-15.34,1.279T,28.98,6
+TSM,Taiwan Semiconductor Manufacturing Company Limited,173.81,2.18,901.403B,33.82,7
+LLY,Eli Lilly and Company,905.38,-3.66,815.209B,133.34,8
+AVGO,Broadcom Inc.,"1,605.53",18.87,747.355B,69,9
+NVO,Novo Nordisk A/S,142.74,-1.75,642.927B,50.08,10
+NONOF,Novo Nordisk A/S,145,1.13,641.357B,50.88,11
+HTHIY,"Hitachi, Ltd.",225.11,-3.18,521.197B,28.57,12
+UNH,UnitedHealth Group Incorporated,509.26,22.82,468.715B,31.05,13
+ASML,ASML Holding N.V.,"1,022.73",-5.28,404.129B,53.13,14
+ASMLF,ASML Holding N.V.,"1,000.55",-74.45,396.921B,51.92,15
+ORCL,Oracle Corporation,141.2,1.02,389.127B,38.06,16
+JNJ,Johnson & Johnson,146.16,0.36,351.76B,21.75,17
+MRK,"Merck & Co., Inc.",123.8,-6.02,313.562B,137.56,18
+ABBV,AbbVie Inc.,171.52,2.53,302.882B,51.05,19
+NFLX,"Netflix, Inc.",674.88,-9.46,290.806B,46.7,20
+AMD,"Advanced Micro Devices, Inc.",162.21,2.74,262.182B,231.73,21
+CRM,"Salesforce, Inc.",257.1,4.25,249.13B,46.32,22
+ADBE,Adobe Inc.,555.54,8.78,246.326B,50,23
+AZNCF,AstraZeneca PLC,157.5,0,244.166B,38.89,24
+SAPGF,SAP SE,202,1,238.776B,93.52,25
+SAP,SAP SE,201.71,0.96,236.878B,93.38,26
+RHHVF,Roche Holding AG,276.73,-8.17,223.855B,17.34,27
+QCOM,QUALCOMM Incorporated,199.18,4.03,222.285B,26.52,28
+NVSEF,Novartis AG,104,-2,218.311B,23.64,29
+NVS,Novartis AG,106.46,-0.09,218.31B,24.2,30
+TMO,Thermo Fisher Scientific Inc.,553,2.22,211.089B,35.47,31
+TMUS,"T-Mobile US, Inc.",176.18,-1.24,207.033B,23.97,32
+AMAT,"Applied Materials, Inc.",235.99,3.46,195.394B,27.09,33
+ACN,Accenture plc,303.41,0.22,190.051B,27.78,34
+DHR,Danaher Corporation,249.85,-1.64,185.061B,45.84,35
+INTU,Intuit Inc.,657.21,5.77,183.896B,60.63,36
+ABT,Abbott Laboratories,103.91,-0.74,180.765B,32.37,37
+TXN,Texas Instruments Incorporated,194.53,1.1,177.116B,30.35,38
+GE,General Electric Company,158.97,-1.53,174.01B,41.83,39
+ARM,Arm Holdings plc,163.62,-3.32,171.448B,564.21,40
+AMGN,Amgen Inc.,312.45,-1.24,167.609B,44.64,41
+CAT,Caterpillar Inc.,333.1,5.64,162.904B,15.06,42
+NOW,"ServiceNow, Inc.",786.67,12.54,161.568B,84.05,43
+IBM,International Business Machines Corporation,172.95,2.1,158.872B,19.61,44
+ISRG,"Intuitive Surgical, Inc.",444.85,-0.26,157.791B,80.59,45
+MU,"Micron Technology, Inc.",131.53,-0.7,145.846B,N/A,46
+SMAWF,Siemens Aktiengesellschaft,179.49,0,144.971B,18.66,47
+LRCX,Lam Research Corporation,"1,064.85",9.02,139.22B,39.09,48
+HON,Honeywell International Inc.,213.54,-0.84,139.054B,24.74,49
+UNP,Union Pacific Corporation,226.26,2.79,138.046B,21.59,50
+MITSY,"Mitsui & Co., Ltd.",917,5.28,136.822B,20.87,51
+SBGSF,Schneider Electric S.E.,242.77,-6.49,136.136B,32.2,52
+RTX,RTX Corporation,100.39,-0.23,133.47B,39.52,53
+SYK,Stryker Corporation,340.25,0.51,129.618B,38.93,54
+ELV,"Elevance Health, Inc.",541.86,6.09,125.938B,20.45,55
+ETN,Eaton Corporation plc,313.55,-0.39,125.386B,37.02,56
+VRTX,Vertex Pharmaceuticals Incorporated,468.72,-3.79,120.955B,30.4,57
+UPS,"United Parcel Service, Inc.",136.85,1.02,117.083B,19.8,58
+REGN,"Regeneron Pharmaceuticals, Inc.","1,051.03",0.17,115.809B,31.05,59
+ADI,"Analog Devices, Inc.",228.26,1.58,113.266B,53.46,60
+BA,The Boeing Company,182.01,-0.5,111.733B,N/A,61
+LMT,Lockheed Martin Corporation,467.1,-0.03,111.141B,17.09,62
+KLAC,KLA Corporation,824.51,9.64,111.012B,43.15,63
+EADSF,Airbus SE,136.85,-5.56,110.224B,25.82,64
+ANET,"Arista Networks, Inc.",350.48,2.55,109.827B,48.81,65
+PANW,"Palo Alto Networks, Inc.",339.01,-1.81,109.771B,48.99,66
+KYCCF,Keyence Corporation,441.95,-2.05,107.184B,46.52,67
+DE,Deere & Company,373.63,-1.69,102.961B,11.26,68
+TOELF,Tokyo Electron Limited,214.25,0,102.311B,43.99,69
+TOELY,Tokyo Electron Limited,109.1,0.5,100.789B,44.9,70
+ESLOF,EssilorLuxottica Société anonyme,218.3,0,99.622B,40.2,71
+ESLOY,EssilorLuxottica Société anonyme,108.38,-0.97,98.764B,39.99,72
+DELL,Dell Technologies Inc.,137.91,-1.52,97.82B,28.14,73
+ADP,"Automatic Data Processing, Inc.",238.69,1.39,97.694B,26.67,74
+CI,The Cigna Group,330.57,-3.58,93.906B,27.19,75
+CRWD,"CrowdStrike Holdings, Inc.",383.19,-4.1,93.254B,709.61,76
+SNPS,"Synopsys, Inc.",595.06,0.06,91.173B,64.96,77
+SAFRF,Safran SA,219,0,90.043B,25.41,78
+FI,"Fiserv, Inc.",149.04,-0.04,87.749B,27.91,79
+WM,"Waste Management, Inc.",213.34,0.67,85.567B,34.97,80
+HCA,"HCA Healthcare, Inc.",321.28,-22.01,84.148B,16.02,81
+CDNS,"Cadence Design Systems, Inc.",307.75,-0.17,83.838B,79.94,82
+GD,General Dynamics Corporation,290.14,-2.36,79.604B,23.65,83
+ZTS,Zoetis Inc.,173.36,-3.1,79.103B,33.47,84
+TRI,Thomson Reuters Corporation,168.57,-1.92,75.801B,32.54,85
+MCK,McKesson Corporation,584.04,-9.16,75.756B,26.11,86
+CNI,Canadian National Railway Company,118.13,0.14,75.154B,19.21,87
+TT,Trane Technologies plc,328.93,-4.72,74.454B,34.73,88
+FDX,FedEx Corporation,299.84,4.37,73.785B,17.42,89
+MKGAF,Merck KGaA,169.62,0,72.939B,25.35,90
+TDG,TransDigm Group Incorporated,"1,277.61",-11.04,71.493B,50.76,91
+CTAS,Cintas Corporation,700.26,-11.38,71.05B,48.23,92
+ITW,Illinois Tool Works Inc.,236.96,0.97,70.709B,23.37,93
+NXPI,NXP Semiconductors N.V.,269.09,4.08,68.802B,24.87,94
+BDX,"Becton, Dickinson and Company",233.71,2.77,67.544B,50.04,95
+PH,Parker-Hannifin Corporation,505.81,1.59,65.017B,23.76,96
+NOC,Northrop Grumman Corporation,435.95,1.04,64.582B,30.4,97
+MSI,"Motorola Solutions, Inc.",386.05,-0.35,64.388B,47.6,98
+EMR,Emerson Electric Co.,110.16,1.87,63.023B,32.79,99
+SPOT,Spotify Technology S.A.,313.79,-1.59,62.461B,N/A,100
+VCISF,Vinci SA,108.6,0,62.127B,12.43,101
+RSG,"Republic Services, Inc.",194.34,-0.48,61.204B,34.15,102
+CNSWF,Constellation Software Inc.,"2,862.00",-18,60.844B,105.03,103
+ROP,"Roper Technologies, Inc.",563.66,1.6,60.337B,41.32,104
+WDAY,"Workday, Inc.",223.56,0.2,59.331B,39.85,105
+MMM,3M Company,102.19,-0.98,56.548B,N/A,106
+PCAR,PACCAR Inc,102.94,-1.03,53.955B,10.69,107
+ADSK,"Autodesk, Inc.",247.45,3.77,53.328B,53.79,108
+NSC,Norfolk Southern Corporation,214.69,4.79,48.501B,34.63,109
+SMCI,"Super Micro Computer, Inc.",819.35,-71.01,47.978B,45.6,110
+TEL,TE Connectivity Ltd.,150.43,1.72,46.066B,13.71,111
+TEAM,Atlassian Corporation,176.88,3.89,46.042B,N/A,112
+MRNA,"Moderna, Inc.",118.75,-2.43,45.51B,N/A,113
+WCN,"Waste Connections, Inc.",175.36,-0.42,45.246B,57.12,114
+SNOW,Snowflake Inc.,135.09,1.17,45.227B,N/A,115
+DXCM,"DexCom, Inc.",113.38,-1.16,45.089B,73.62,116
+HUM,Humana Inc.,373.65,11.55,45.025B,22.99,117
+DASH,"DoorDash, Inc.",108.78,-1.8,44.482B,N/A,118
+COR,"Cencora, Inc.",225.3,-2.66,44.368B,24.62,119
+GWW,"W.W. Grainger, Inc.",902.24,-1.5,44.33B,24.88,120
+URI,"United Rentals, Inc.",646.73,23.69,43.441B,17.55,121
+DDOG,"Datadog, Inc.",129.69,1.24,43.381B,381.44,122
+CHTR,"Charter Communications, Inc.",298.96,4.85,43.059B,9.68,123
+PAYX,"Paychex, Inc.",118.56,0.72,42.677B,25.39,124
+LHX,"L3Harris Technologies, Inc.",224.58,1.4,42.598B,36.52,125
+DISPF,Disco Corporation,380.5,0,41.228B,79.27,126
+HOCPY,HOYA Corporation,117.07,0.61,40.975B,36.47,127
+IDXX,"IDEXX Laboratories, Inc.",487.2,-6.76,40.237B,47.16,128
+MPWR,"Monolithic Power Systems, Inc.",821.68,12.23,39.993B,98.05,129
+WTKWY,Wolters Kluwer N.V.,166.2,-0.55,39.396B,38.12,130
+FERG,Ferguson plc,193.65,0.19,39.056B,21.19,131
+AME,"AMETEK, Inc.",166.71,0.24,38.588B,29.35,132
+IQV,IQVIA Holdings Inc.,211.44,-1.31,38.524B,28.89,133
+VRSK,"Verisk Analytics, Inc.",269.55,-1.3,38.458B,49.28,134
+ODFL,"Old Dominion Freight Line, Inc.",176.6,2.23,38.373B,31.04,135
+LZAGF,Lonza Group AG,529.55,-10.45,38.189B,53.49,136
+ADYYF,Adyen N.V.,"1,225.00",0,38.032B,51.11,137
+CMI,Cummins Inc.,276.93,-3.56,37.878B,20.33,138
+A,"Agilent Technologies, Inc.",129.63,-1.17,37.821B,30.65,139
+ASMIY,ASM International NV,758.57,7.25,37.265B,64.45,140
+PWR,"Quanta Services, Inc.",254.09,-12.97,37.196B,49.24,141
+EA,Electronic Arts Inc.,139.33,-0.19,37.025B,29.77,142
+FICO,Fair Isaac Corporation,"1,488.66",11.15,36.786B,78.14,143
+IT,"Gartner, Inc.",449.06,4.29,34.861B,44.64,144
+CAPMF,Capgemini SE,202.5,0,34.784B,20.23,145
+BIIB,Biogen Inc.,231.82,3.1,33.752B,28.94,146
+XYL,Xylem Inc.,135.63,-0.76,32.883B,47.09,147
+HLAGF,Hapag-Lloyd Aktiengesellschaft,184.29,-0.97,32.391B,22.61,148
+ROK,"Rockwell Automation, Inc.",275.28,7.62,31.383B,26.96,149
+GRMN,Garmin Ltd.,162.92,0.91,31.293B,22.98,150
+MARUY,Marubeni Corporation,186.01,0.91,31.015B,10.7,151
+ALNY,"Alnylam Pharmaceuticals, Inc.",243,-4,30.738B,N/A,152
+SMECF,SMC Corporation,477.25,2.25,30.608B,27.67,153
+CDW,CDW Corporation,223.84,-0.22,30.084B,27.95,154
+HUBS,"HubSpot, Inc.",589.79,3.78,30.057B,N/A,155
+EFX,Equifax Inc.,242.46,2.65,29.971B,54,156
+MTD,Mettler-Toledo International Inc.,"1,397.59",-8.93,29.849B,39.21,157
+VEEV,Veeva Systems Inc.,183.01,-2.14,29.584B,53.99,158
+ASHTY,Ashtead Group plc,267.86,-1.95,29.221B,18.4,159
+ZS,"Zscaler, Inc.",192.19,2.99,29.049B,N/A,160
+RMD,ResMed Inc.,191.42,-0.16,28.121B,29.4,161
+ANSS,"ANSYS, Inc.",321.5,-0.32,28.067B,64.56,162
+WAB,A.P. Møller - Mærsk A/S,158.05,-0.69,27.878B,30.75,163
+AMKAF,,"1,705.00",55,27.482B,15.93,164
+TTWO,"Take-Two Interactive Software, Inc.",155.49,-1.49,27.211B,N/A,165
+HEI-A,HEICO Corporation,177.52,-0.06,27.113B,55.82,166
+HEI,HEICO Corporation,223.61,-3.17,27.113B,70.32,167
+SHLRF,Schindler Holding AG,254.79,0,26.886B,27.69,168
+NTAP,"NetApp, Inc.",128.8,-0.23,26.507B,27.88,169
+ARGX,argenx SE,430.04,-14.9,26.429B,N/A,170
+RYAAY,Ryanair Holdings plc,116.44,-0.23,26.392B,13.02,171
+ICLR,ICON Public Limited Company,313.47,0.25,25.948B,38,172
+KSPI,Joint Stock Company Kaspi.kz,129.01,-3.27,25.634B,13.03,173
+AMKBF,A.P. Møller - Mærsk A/S,"1,675.00",0,25.626B,15.66,174
+DOV,Dover Corporation,180.45,2,24.799B,17.33,175
